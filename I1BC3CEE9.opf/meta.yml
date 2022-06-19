@@ -1,0 +1,38 @@
+id: I1BC3CEE9
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T09:44:24.175344'
+last_modified: '2022-06-19T09:44:24.175355'
+parser: null
+source_metadata:
+  title: Hagiography of Zhwa lu mkhan chen dBang phyug rab brtan (1559–1636); Lamdre
+    Lobshe, vol. nga, title no. 5
+  author: ngag dbang blo bzang brgya mtsho/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-09-03); unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:rdzong sar khams bye'i lnga rig slob gling / sde dge rdzong sar/ (dzkj)
+  - Editorial process:Mathias Fermer (mf), kun dga' rdo rje/ (Kathmandu) (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/571
+  bases:
+    c487:
+      title: Hagiography of Zhwa lu mkhan chen dBang phyug rab brtan (1559–1636);
+        Lamdre Lobshe, vol. nga, title no. 5
+      order: 1
+      base_file: c487.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
